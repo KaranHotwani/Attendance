@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Attendance</string>
+
+        <array name="div">
+            <item> D10</item>
+            <item> D15</item>
+            <item> D20</item>
+        </array>
+
+        <array name="sub">
+            <item> Java</item>
+            <item> DataStructures</item>
+            <item> Dbms</item>
+        </array>
+</resources>
